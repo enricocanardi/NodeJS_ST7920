@@ -1,0 +1,26 @@
+{
+  "name": "st7920",
+  "version": "0.0.1",
+  "description": "A NodeJS library for ST7920 based 128x64 display",
+  "main": "ST7920.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tests/testText.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricocanardi/NodeJS_ST7920.git"
+  },
+  "keywords": [
+    "ST7920",
+    "digole"
+  ],
+  "author": "Enrico Canardi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/enricocanardi/NodeJS_ST7920/issues"
+  },
+  "homepage": "https://github.com/enricocanardi/NodeJS_ST7920#readme"
+}
