@@ -1,6 +1,18 @@
 # NodeJS_ST7920
 A NodeJS library for ST7920 based 128x64 display
 
+# Features
+* Support serial communication
+* print text
+* display images (GIF)
+
+# Based on
+Astronomik [ST7920](http://www.astromik.org/raspi/42.htm)
+
+# External resources
+* Digole 12864ZW [datasheet](http://www.digole.com/images/file/Digole_12864_LCD.pdf)
+* [wiki](https://github.com/enricocanardi/NodeJS_ST7920/wiki)
+
 # Hardware setup
 ### Basic setup for Raspberry PI 2
 | Controller side | LCD side     |
@@ -27,10 +39,3 @@ A NodeJS library for ST7920 based 128x64 display
 ```sh
 npm install st7920
 ```
-
-# External resources
-Digole 12864ZW [datasheet](http://www.digole.com/images/file/Digole_12864_LCD.pdf)
-
-# Based on
-Astronomik [ST7920](http://www.astromik.org/raspi/42.htm)
-

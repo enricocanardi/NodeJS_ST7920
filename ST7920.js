@@ -122,7 +122,7 @@ ST7920.prototype.printText = function(x, y, text) {
 	return this.emit('printed', text);
 }
 
-ST7920.prototype.loadBMP = function(fileName) {
+ST7920.prototype.loadGIF = function(fileName) {
 	var _this = this;
 	getPixels(fileName, function(err, pixels) {
 		if(err) {

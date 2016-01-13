@@ -9,7 +9,7 @@ var ST7920 = require('../ST7920');
 var lcd = new ST7920({sclk: 15, sid: 14, rst: 18});
 lcd.on('ready', function () {
 	lcd.on('initGFX',function() {
-		lcd.loadBMP("test.gif");
+		lcd.loadGIF("test.gif");
 	});
 	lcd.initGFX();
 });
