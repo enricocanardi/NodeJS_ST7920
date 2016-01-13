@@ -19,6 +19,7 @@ A NodeJS library for ST7920 based 128x64 display
 # Hardware
 ## Controllers
 * Raspberry PI 2
+
 ## LCD
 * Digole 12864ZW
 
