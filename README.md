@@ -2,7 +2,7 @@
 A NodeJS library for ST7920 based 128x64 display
 
 # Hardware setup
-## Basic setup for Raspberry PI 2
+### Basic setup for Raspberry PI 2
 | Controller side | LCD side     |
 |-----------------|--------------|
 | Pin 4  (5v)     | Pin 2  (VDD) |
@@ -14,13 +14,12 @@ A NodeJS library for ST7920 based 128x64 display
 | Pin 8  (GPIO14) | Pin 5  (R/W) |
 | Pin 10 (GPIO15) | Pin 6  (E)   |
 | Pin 12 (GPIO18) | Pin 5  (RST) |
-|-----------------|--------------|
 
 # Hardware
-## Controllers
+### Controllers
 * Raspberry PI 2
 
-## LCD
+### LCD
 * Digole 12864ZW
 
 # Installation
