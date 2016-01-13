@@ -1,6 +1,6 @@
 {
   "name": "st7920",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A NodeJS library for ST7920 based 128x64 display",
   "main": "ST7920.js",
   "directories": {
