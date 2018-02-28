@@ -25,7 +25,7 @@ Astronomik [ST7920](http://www.astromik.org/raspi/42.htm)
 | Pin 6  (GND)    | Pin 20 (BLK) |
 | Pin 8  (GPIO14) | Pin 5  (R/W) |
 | Pin 10 (GPIO15) | Pin 6  (E)   |
-| Pin 12 (GPIO18) | Pin 5  (RST) |
+| Pin 12 (GPIO18) | Pin 17 (RST) |
 
 # Hardware
 ### Controllers
